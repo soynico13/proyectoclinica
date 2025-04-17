@@ -19,7 +19,7 @@ a{
 }
     .header{
  
-        background: url(/img/imgfondomenu.png);
+        background: url(../img/imgfondomenu.png);
         background-position: center;
         background-attachment: contain;
         background-size:cover;
@@ -188,7 +188,7 @@ a{
 }
 
 .parent {
-    background: url(/img/lab4.jpg);
+    background: url(../img/lab4.jpg);
     background-position: center;
     background-attachment: contain;
     background-size: cover;
@@ -305,7 +305,7 @@ a{
   }
   
   .fondoRX{
-    background: url(/img/fondoRyos.png);
+    background: url(../img/fondoRyos.png);
     background-position: center;
     background-attachment: contain;
     background-size:cover;
@@ -540,7 +540,7 @@ a{
   
   
   .fondo-especialistas{
-    background: url(/img/doctor.jpg);
+    background: url(../img/doctor.jpg);
     background-position: center;
     background-attachment: contain;
     background-size:cover;
